@@ -1,1 +1,1 @@
-# goit-markup-hw-02
+Projekt nr 2 CSS
