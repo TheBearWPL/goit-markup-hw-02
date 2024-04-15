@@ -142,3 +142,27 @@ body {
 }
 
 /* [main] -> [section] (third section contains) rules */
+
+.section-three-settings {
+  color: #f4f4fd;
+}
+
+.h-three-secion-three-settings {
+  font-family: Roboto;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 40px;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #2e2f42;
+}
+
+.p-section-three-settings {
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #434455;
+}
