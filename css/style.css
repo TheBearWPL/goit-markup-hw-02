@@ -1,0 +1,66 @@
+/* Fonts */
+.raleway {
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+.roboto-regular {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.roboto-medium {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.roboto-bold {
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+/* General Website Style rules */
+
+body {
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  color: #434455;
+  background-color: #ffffff;
+}
+
+/* [Header] rules */
+
+.logo {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #4d5ae5;
+}
+
+.studio-logo-text {
+  color: #2e2f42;
+}
+
+.main-menu-list {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
+.main-menu-list:focus {
+  color: #404bbf;
+}
+.main-menu-list:hover {
+  color: #404bbf;
+}
+
+.main-menu-list:active {
+  color: #404bbf;
+}
