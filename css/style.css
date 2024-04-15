@@ -121,6 +121,10 @@ body {
 
 /* [main] -> [section] (second section contains) rules */
 
+.h-two-setting {
+  font-weight: 500;
+}
+
 .h-three-settings {
   font-family: "Roboto", sans-serif;
   font-weight: 500;
