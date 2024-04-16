@@ -158,10 +158,6 @@ body {
   text-transform: capitalize;
 }
 
-.list-section-three-settings {
-  background-color: #ffffff;
-}
-
 .h-three-secion-three-settings {
   font-family: Roboto;
   font-size: 20px;
@@ -170,6 +166,10 @@ body {
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
+}
+
+.list-section-three-settings {
+  background-color: #ffffff;
 }
 
 .p-section-three-settings {
