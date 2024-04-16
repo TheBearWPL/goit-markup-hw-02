@@ -148,7 +148,7 @@ body {
 }
 
 .h-two-section-three-settings {
-  font-family: Roboto;
+  font-family: "Roboto", sans-serif;
   font-size: 36px;
   font-weight: 700;
   line-height: 1.11;
@@ -158,8 +158,8 @@ body {
   text-transform: capitalize;
 }
 
-.h-three-secion-three-settings {
-  font-family: Roboto;
+.h-three-section-three-settings {
+  font-family: "Roboto", sans-serif;
   font-size: 20px;
   font-weight: 500;
   line-height: 1.2;
@@ -173,7 +173,47 @@ body {
 }
 
 .p-section-three-settings {
-  font-family: Roboto;
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #434455;
+}
+
+/* [main] -> [section] (fourth section contains) rules */
+
+.section-four-settings {
+  background-color: #ffffff;
+}
+
+.h-two-section-four-settings {
+  font-family: "Roboto", sans-serif;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #2e2f42;
+}
+
+.list-section-four-settings {
+  background-color: #ffffff;
+}
+
+.h-three-section-four-settings {
+  font-family: "Roboto", sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 24px;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #2e2f42;
+}
+
+.p-section-four-settings {
+  font-family: "Roboto", sans-serif;
   font-size: 16px;
   font-weight: 400;
   line-height: 24px;
